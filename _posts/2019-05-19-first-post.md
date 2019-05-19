@@ -1,11 +1,12 @@
 ---
 layout: post
 title: First post! Screen shot of my current fun.
+image: /img/test32.PNG
 ---
 
 This is my first post, how exciting!
 
-It will be long jorney!
+It will be long journey!
 
 ![TestScene0](/img/test32.PNG)
 ![TestScene1](/img/test33.PNG)
