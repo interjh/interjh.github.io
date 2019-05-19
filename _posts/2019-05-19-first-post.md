@@ -12,5 +12,5 @@ It will be long journey!
 ![TestScene1](/img/20190519/test33.PNG)
 ![TestScene2](/img/20190519/test34.PNG)
 ![TestScene3](/img/20190519/test35.PNG)
-![TestScene4](/img/20190519/test36.png)
+![TestScene4](/img/20190519/test36.PNG)
 ![TestScene5](/img/20190519/test37.PNG)
