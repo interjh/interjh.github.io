@@ -3,11 +3,11 @@ layout: page
 title: About me
 subtitle: Programmer
 ---
-
-My name is Junhwan Kim. 
-
-I am a programmer with many years of experience in game graphics and engine development.
-
+-
+-My name is Junhwan Kim. 
+-
+-I am a programmer with many years of experience in game graphics and engine development.
+-
 ### my history
 -
 -Senior Engine Programmer
