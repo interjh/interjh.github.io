@@ -6,7 +6,7 @@ image: /img/20190520/EngineTest_Release_x64 2019-05-20 01-42-42-11.png
 Occlusion culling based on coverage buffer.
 ![TestScene0](/img/20190520/EngineTest_Release_x64 2019-05-20 01-42-42-11.png)
 
-1. Downscle depth target.
+1. Downscale depth target.
 2. Readback to CPU, Readback latency will be serveral frames( It will be depends on graphics command queue counts. ). 
 3. Reprojection with current frame camera matrix(Bottom-left depth image above the image).
 4. Loop each object
