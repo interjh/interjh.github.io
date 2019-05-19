@@ -12,7 +12,10 @@ Occlusion culling based on coverage buffer.
 4. Loop each object
 1. CPU Rasterization of AABB or OBB.
 2. Visibility Z test(Transparent red color quad is culled object OOB above the image).
-  
+
+Pros:
+If framerate is not fast enough then it will get depth that did not project correctlly.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gEyZmgq57i8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This technique came from crytek. 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dHxTcN42kym1gV" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/TiagoAlexSousa/secrets-of-cryengine-3-graphics-technology" title="Secrets of CryENGINE 3 Graphics Technology" target="_blank">Secrets of CryENGINE 3 Graphics Technology</a> </strong> from <strong><a href="https://www.slideshare.net/TiagoAlexSousa" target="_blank">Tiago Sousa</a></strong> </div>
