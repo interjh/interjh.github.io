@@ -1,16 +1,16 @@
 ---
 layout: post
 title: First post! Screen shot of my current fun.
-image: /img/test32.PNG
+image: /img/20190519/test32.PNG
 ---
 
 This is my first post, how exciting!
 
 It will be long journey!
 
-![TestScene0](/img/test32.PNG)
-![TestScene1](/img/test33.PNG)
-![TestScene2](/img/test34.PNG)
-![TestScene3](/img/test35.PNG)
-![TestScene4](/img/tavatar-icon.png)
-![TestScene5](/img/test37.PNG)
+![TestScene0](/img/20190519/test32.PNG)
+![TestScene1](/img/20190519/test33.PNG)
+![TestScene2](/img/20190519/test34.PNG)
+![TestScene3](/img/20190519/test35.PNG)
+![TestScene4](/img/20190519/test36.png)
+![TestScene5](/img/20190519/test37.PNG)
