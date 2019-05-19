@@ -1,7 +1,6 @@
-@ -1,13 +0,0 @@
 ---
 layout: post
-title: First post!
+title: First post! Screen shot of my current fun.
 ---
 
 This is my first post, how exciting!
