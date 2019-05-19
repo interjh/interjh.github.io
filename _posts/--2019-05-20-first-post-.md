@@ -1,16 +1,15 @@
 ---
 layout: post
-title: First post! Screen shot of my current fun.
-image: /img/20190519/test32.PNG
+title: Occlusion culling based on coverage buffer
+image: /img/20190520/EngineTest_Release_x64 2019-05-20 01-42-42-11.png
 ---
 
-This is my first post, how exciting!
+Occlusion culling based on coverage buffer.
 
-It will be long journey!
+This technique came from crytek. 
 
-![TestScene0](/img/20190519/test32.PNG)
-![TestScene1](/img/20190519/test33.PNG)
-![TestScene2](/img/20190519/test34.PNG)
-![TestScene3](/img/20190519/test35.PNG)
-![TestScene4](/img/20190519/test36.PNG)
-![TestScene5](/img/20190519/test37.PNG)
+<iframe src="http://advances.realtimerendering.com/s2011/SousaSchulzKazyan%20-%20CryEngine%203%20Rendering%20Secrets%20((Siggraph%202011%20Advances%20in%20Real-Time%20Rendering%20Course).ppt" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+
+
+
+![TestScene0](/img/20190520/EngineTest_Release_x64 2019-05-20 01-42-42-11.png)
