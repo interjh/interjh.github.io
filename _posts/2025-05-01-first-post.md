@@ -1,0 +1,15 @@
+---
+layout: post
+title: Nanite without atomic64. Is it possible?
+image: /img/20250501/NaniteWithoutAtomic64_00.PNG
+---
+
+![TestScene0](/img/20250501/NaniteWithoutAtomic64_00.png)
+
+My Macbook Pro has M1 Max. It dose not support atomic 64 in metal shader.
+
+Just try to split the 64bit buffer into two 32bit buffers. One is for depth, other onw is for visibility.
+
+Here is the problem.
+
+Depth buffer can use atomic max. and works fine. but visibility buffer... there is no depth info.
