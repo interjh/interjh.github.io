@@ -8,7 +8,7 @@ My name is Junhwan Kim.
 
 I am a programmer with many years of experience in game graphics and engine development.
 
-### my history
+### My history
 
 Lead Engine Programmer / Nexon Games Co., Ltd. / The First Descendent <br>
 Oct 2019 – Dec 2025 
