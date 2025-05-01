@@ -10,7 +10,11 @@ I am a programmer with many years of experience in game graphics and engine deve
 
 ### my history
 
-Senior Engine Programmer / Pearlabyss Corp. / Nov 2017 – Present 
+Lead Engine Programmer / Nexon Games Co., Ltd. / Oct 2019 – December 2025 
+
+Senior Graphics Programmer / XL Games Inc. / Jul 2019 – Sep 2019
+
+Senior Engine Programmer / Pearlabyss Corp. / Nov 2017 – Jun 2019 
 
 Lead Engine Programmer / Blueside Inc. / Mar 2014 – Oct 2017 
 
